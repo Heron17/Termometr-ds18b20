@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "termomentr_mgr", "termomentr_mgr\termomentr_mgr.cproj", "{20FCF2E4-011C-4B7F-BC9F-051D483DA4DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20FCF2E4-011C-4B7F-BC9F-051D483DA4DF}.Debug|AVR.ActiveCfg = Debug|AVR
+		{20FCF2E4-011C-4B7F-BC9F-051D483DA4DF}.Debug|AVR.Build.0 = Debug|AVR
+		{20FCF2E4-011C-4B7F-BC9F-051D483DA4DF}.Release|AVR.ActiveCfg = Release|AVR
+		{20FCF2E4-011C-4B7F-BC9F-051D483DA4DF}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
